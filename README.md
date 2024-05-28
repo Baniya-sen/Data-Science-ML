@@ -1,6 +1,6 @@
 # Data Science and Machine Learning Projects
 
-This collection of Jupyter Notebooks showcases my learning journey through various analyses and visualizations of datasets in CSV format. Each project is a step towards mastering data manipulation, statistical analysis, and machine learning techniques.
+This collection of Jupyter Notebooks showcases my learning journey via Data Science courses through various analyses and visualizations of datasets in CSV format. Each project is a step towards mastering data manipulation, statistical analysis, and machine learning techniques.
 
 ## Table of Contents
 
@@ -36,7 +36,7 @@ Here is a list of some of the key projects included in this repository:
       Run a Multivariable Regression, 
       Evaluate how your model's coefficients and residuals, 
       Use data transformation to improve your model performance, 
-      Use model to estimate a property price.
+      Use a model to estimate a property price.
     - Keywords: #analyse, #split-training-testing #multivariable-regression #coefficients #data-transformation #estimate
       
 ... and many more.
