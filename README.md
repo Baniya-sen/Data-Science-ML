@@ -36,7 +36,7 @@ Here is a list of some of the key projects included in this repository:
       Run a Multivariable Regression, 
       Evaluate how your model's coefficients and residuals, 
       Use data transformation to improve your model performance, 
-      Use your model to estimate a property price
+      Use model to estimate a property price.
     - Keywords: #analyse, #split-training-testing #multivariable-regression #coefficients #data-transformation #estimate
       
       ... and many more.
