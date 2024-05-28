@@ -39,7 +39,7 @@ Here is a list of some of the key projects included in this repository:
       Use model to estimate a property price.
     - Keywords: #analyse, #split-training-testing #multivariable-regression #coefficients #data-transformation #estimate
       
-      ... and many more.
+... and many more.
 
 Each project folder contains:
 
