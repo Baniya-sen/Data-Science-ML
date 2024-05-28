@@ -31,11 +31,11 @@ Here is a list of some of the key projects included in this repository:
 3. **Multivariable Regression and_Valuation Model**
    - Description: Welcome to Boston Massachusetts in the 1970s! Imagine you're working for a real estate development company. Your company wants to value any residential project before they start.
       This project will :
-      Analyse and explore the Boston house price data
-      Split data for training and testing
-      Run a Multivariable Regression
-      Evaluate how your model's coefficients and residuals
-      Use data transformation to improve your model performance
+      Analyse and explore the Boston house price data, 
+      Split data for training and testing, 
+      Run a Multivariable Regression, 
+      Evaluate how your model's coefficients and residuals, 
+      Use data transformation to improve your model performance, 
       Use your model to estimate a property price
     - Keywords: #analyse, #split-training-testing #multivariable-regression #coefficients #data-transformation #estimate
       
